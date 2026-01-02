@@ -1,0 +1,44 @@
+campsurfa/
+│
+├── index.html            → Homepage
+├── hostels.html          → Hostel listings
+├── hostel.html           → Single hostel page
+├── blog.html             → Articles list
+├── post.html             → Single article page
+├── submit.html           → Submit hostel form
+├── about.html
+│
+├── assets/
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   ├── hostels.js
+│   │   └── blog.js
+│   ├── images/
+│
+├── data/
+│   ├── hostels.json
+│   └── posts.json
+│
+└── README.md
+[
+  {
+    "id": "h001",
+    "name": "Golden Rock Hostel",
+    "price": "GHS 1,800 – 2,500",
+    "distance": "5 minutes walk",
+    "location": "Tarkwa-Aboso Road",
+    "gender": "Mixed",
+    "contact": "024XXXXXXX",
+    "images": ["golden1.jpg", "golden2.jpg"]
+  }
+]
+[
+  {
+    "id": "p001",
+    "title": "Best Hostels Near UMAT for Freshers",
+    "excerpt": "Finding a hostel near UMAT can be tricky...",
+    "date": "2026-01-02",
+    "slug": "best-hostels-near-umat"
+  }
+]
