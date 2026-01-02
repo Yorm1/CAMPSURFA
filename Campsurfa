@@ -20,6 +20,7 @@ campsurfa/
 │   └── posts.json
 │
 └── README.md
+
 [
   {
     "id": "h001",
@@ -32,6 +33,7 @@ campsurfa/
     "images": ["golden1.jpg", "golden2.jpg"]
   }
 ]
+
 [
   {
     "id": "p001",
