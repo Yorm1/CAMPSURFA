@@ -1,5 +1,4 @@
 campsurfa/
-│
 ├── index.html            → Homepage
 ├── hostels.html          → Hostel listings
 ├── hostel.html           → Single hostel page
