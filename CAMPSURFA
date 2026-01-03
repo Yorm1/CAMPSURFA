@@ -1,27 +1,3 @@
-CAMPSURFA/
-│
-├── index.html            → Homepage
-├── hostels.html          → Hostel listings
-├── hostel.html           → Single hostel page
-├── blog.html             → Articles list
-├── post.html             → Single article page
-├── submit.html           → Submit hostel form
-├── about.html
-│
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   ├── js/
-│   │   ├── hostels.js
-│   │   └── blog.js
-│   ├── images/
-│
-├── data/
-│   ├── hostels.json
-│   └── posts.json
-│
-└── README.md
-
 [
   {
     "id": "h001",
